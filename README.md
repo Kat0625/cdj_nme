@@ -1,7 +1,5 @@
 # CDJ NME
 
-Education is a right not a privilege.
-
 ---
 
 In this repository are all the files needed to complete the 4-week Python section of new member education for Cornell Data Journal.
@@ -15,7 +13,7 @@ Each of the workbooks goes into a fundamental data science concept. Here's a sho
 * Workbook 1: an introduction to Python, including working with lists, libraries, loops, and dataframes
 * Workbook 2: the basics of SQL, including filtering (with NaNs), grouping, and merging
 * Workbook 3: creating visualizations, including scatterplots, histograms, and bar charts
-* Workbook 4: the fundamentals of linear regressions, including correlations, residuals, train/test splits, evaluation metrics, and significance tests
+* Workbook 4: the fundamentals of linear regressions, including correlations, train/test splits, evaluation metrics, and significance tests
 
 ---
 
